@@ -7,7 +7,7 @@ category: light
 supports: on/off, brightness
 image: /assets/images/devices/Innr_RF_265.jpg
 zigbeemodel: ['RF 265']
-compatible: [z2m]
+compatible: [z2m,deconz]
 mlink: https://www.innr.com/en/all-you-want-to-know-about-innr-smart-filament-bulbs/
 link: https://www.amazon.de/Smart-Filament-warmwei%C3%9F-Philips-1-Pack/dp/B07TTTFFHK/
 link2: https://www.amazon.co.uk/dp/B07TW85G6D/
